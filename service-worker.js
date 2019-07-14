@@ -21,7 +21,7 @@
 const CACHE_NAME = 'static-cache-v6';
 // CODELAB: Add list of files to cache here.
 const FILES_TO_CACHE = [
-  '/codeGenerator',
+  '/cg',
   'index.html',
   'android-chrome-192x192.png',
   'android-chrome-512x512.png',
